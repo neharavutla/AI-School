@@ -1,5 +1,3 @@
-# AI-School
-AI Ready School homepage redesign focusing on improved UX, clear product structure, and modern UI design
 # AI Ready School – Homepage Redesign
 
 ## UX Problems Identified
